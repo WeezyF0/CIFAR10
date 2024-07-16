@@ -15,3 +15,12 @@ grad_clip = 0.1
 weight_decay = 1e-4
 opt_func = torch.optim.Adam
 
+
+cifar10_5min: 90% accuracy, 4.something mins training time.
+92.4% accuracy, 10 minutes training time.
+epochs = 8
+max_lr = 0.01
+grad_clip = 0.1
+weight_decay = 1e-4
+opt_func = torch.optim.Adam
+
