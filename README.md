@@ -23,3 +23,6 @@ grad_clip = 0.1
 weight_decay = 1e-4
 opt_func = torch.optim.Adam
 
+
+ResNet34 and ResNet50 not faster. Feature training didn't help.
+
